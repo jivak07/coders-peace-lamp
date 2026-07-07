@@ -6,3 +6,4 @@ Story:- I though that I also need to be create something creative but here was t
 There are some negative points also of this light:- 1. In night time Suppresses melatonin release which causes difficult in sleep, 2. This light can causes blurry vision, dry eyes, headaches
 But still why I choose blue light because of some reasons :- 1. On that time I had only white and Blue light , 2. The human cornea and lens cannot block blue light, meaning it passes straight to the retina, 3. Increases energy, 4. In Day blue ligh is more helpful like:- Boosts daytime alertness, sharpens reaction times, boosts brain function, improves mood. 
 Incase if I get funding or hardwares so well I can make this Lamp more good using psychology (by the way I have good knowledge of psychology)
+Visit site :-  https://jivak07.github.io/coders-peace-lamp/
