@@ -8,7 +8,7 @@ But still why I choose blue light because of some reasons :- 1. On that time I h
 Incase if I get funding or hardwares so well I can make this Lamp more good using psychology (by the way I have good knowledge of psychology). 
 Right now coders peace lamp's prototype is 100% ready. 
 
-This is how final product will look, here is MVP design :- https://github.com/jivak07/coders-peace-lamp/blob/main/Coders%20Peace%20Lamp%20%20%E2%80%94%20Final%20Design%20(Market%20Ready).pdf
+This is how final product will look, here is MVP design (To save amy time I used litle bit AI here):- https://github.com/jivak07/coders-peace-lamp/blob/main/Coders%20Peace%20Lamp%20%20%E2%80%94%20Final%20Design%20(Market%20Ready).pdf
 
 https://github.com/jivak07/coders-peace-lamp/tree/main/images-while-working-on-project This is my daily work proof pictures/photos. Also I wrote my journal for extra. 
 
