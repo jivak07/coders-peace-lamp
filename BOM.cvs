@@ -6,13 +6,18 @@ Direct 5V Blue-Spectrum LED Capsule,1,0,Salvaged E-Waste,Current basic light emi
 Upcycled Micro Ribbon-Connector Matrix,1,0,Salvaged E-Waste,Internal structural support = $0 
 Tethered USB Power Cables,1,0,Salvaged E-Waste,Current laptop connectivity link = $0
 
-Parts which I need:- 
-Raspberry Pi Pico H Microcontroller,1,650,For dynamic light shifting & programming user modes = $7.80
-RGB Crystal Projector Lens & LED Assembly,1,499,To get FABLOFT room-projection effect = $6.00
-TP4056 Li-Ion Battery Charger Board with Protection,2,150,For safe standalone portability & charging circuitry = $1.80
-18650 Rechargeable Li-ion Battery (2500mAh),1,300To work anywhere anytime without direct electricity = $3.60
-Matte Black Cylindrical ABS Enclosure Box,1,220,For professional customer-usable casing body = $2.65
-Push Button Switches & Rotary Encoder,1,180,To manually shift modes based on user psychology = $2.15
-25W Soldering Iron Starter Kit (Wire + Flux),1,450,Essential tool to assemble final reliable connections = $5.40
+Parts which I needs:- 
+1. Microcontroller Unit | Seeed Studio XIAO RP2040 (Ultra-small dual-core ARM Cortex M0+ to process dual-button multi-state click logic) = $5.50
+2. Flexible Gooseneck Tube | 30cm Flexible metal iron gooseneck arm with internal wiring channels and threaded ends = $7.00
+3. Custom Controller PCB | Custom circuit board fabrication and assembly (JLCPCB prototype run for power rails and switch pathways) = $22.00
+4. Front Multi-Color Light Engine | Integrated High-Power SMD RGBW+Y (Red, Blue, Green, White, Yellow) LED Bead Array = $11.00
+5. Focusing Lens Assembly | 15-Degree optical PMMA collimator lens for sharp directional spotlight output = $4.50
+6. Side Ambient LED Strip Array | Custom low-profile rigid linear PCB strip fitted with mini multi-color SMD LEDs = $12.50
+7. Side Light Diffuser Panel | Frosted semi-transparent cylindrical polycarbonate sleeve for wide-angle side light softening = $5.00
+8. 2 Tactile Micro-Switches | Right-angle PCB tactile push-buttons for discrete dual-button input controls = $0.75
+9. Main Cylindrical Enclosure | Precision CNC-milled or high-density 3D printed matte black cylindrical housing head = $14.00
+10. USB Power Interface Cable | Heavy-duty USB-A Male to bare-wire internal power delivery cable (5V line input) = $3.50
+11. Hardware Hardware Passives | Fixed value decoupling capacitors, current-limiting resistors, and heat-shrink insulation = $4.00
+12. Estimated Shipping / Logistics | Standard components shipping and PCB manufacturing delivery fees = $15.00
 
-Total Cost in USD: ~$29.40 (Aproxx $30 Dollars)
+Total Cost in USD: $105.50
