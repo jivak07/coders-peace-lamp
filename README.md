@@ -13,6 +13,7 @@ The dock has two ports — Input and Output. The strip light connects to Output,
 
 It's tested and working 100%.
 
+Note:- The PCB itself was not custom-designed — it's a salvaged board from an old earbud charging dock, reused as-is. No KiCad source exists because no original PCB design was created.
 ## Why I built this
 
 I belong to an Indian farmer family and couldn't buy parts to build a hardware project. While cleaning my room, I found old waste gadgets and thought — let's see what I can build from this. This whole product is made from waste materials.
@@ -43,5 +44,9 @@ Here is journal link with images :- https://github.com/jivak07/coders-peace-lamp
 Here is BOM.cvs link :- https://github.com/jivak07/coders-peace-lamp/blob/main/BOM.csv
 
 Here is 3d design (outside design) :- https://github.com/jivak07/coders-peace-lamp/blob/main/3d%20design.stp
+
+Here are Final Project Images :- <img width="1920" height="1080" alt="Day 3 of Hardware Project (Image 10)" src="https://github.com/user-attachments/assets/935bc06f-0dcc-4a1a-8484-48bf653d907d" />
+<img width="4160" height="3120" alt="Hardware Project" src="https://github.com/user-attachments/assets/7d13d915-3e57-4123-a751-a2574a4f63ad" />
+
 
 Here is plane design :- <img width="1545" height="892" alt="Coders Peace Lamp - Final Design" src="https://github.com/user-attachments/assets/ed046de6-b16d-46fc-a292-8f380595f841" />
